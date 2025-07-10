@@ -4019,3 +4019,35 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Jul2025 00:48:35.326] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-123, y=-41, z=210}
 [10Jul2025 00:48:51.946] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: solus39 lost connection: Disconnected
 [10Jul2025 00:48:51.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: solus39 left the game
+[10Jul2025 00:50:35.736] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: solus39[/127.50.125.212:41763] logged in with entity id 4059 at (15.754000846085003, 127.0, 12.18487149507109)
+[10Jul2025 00:50:35.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: solus39 joined the game
+[10Jul2025 00:50:35.828] [Server thread/INFO] [fallingtrees | Config/]: Sending solus39 common config 'fallingtrees:fallingtrees_common'
+[10Jul2025 00:50:35.830] [Server thread/INFO] [Jade/]: Syncing config to solus39 (ce65ba84-6225-3264-aae1-f7b8876dc27b)
+[10Jul2025 00:50:36.919] [Netty Epoll Server IO #3/INFO] [fallingtrees | Config/]: Received config 'fallingtrees:fallingtrees_client' from solus39
+[10Jul2025 00:53:31.055] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: solus39 lost connection: Disconnected
+[10Jul2025 00:53:31.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: solus39 left the game
+[10Jul2025 00:55:05.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[10Jul2025 00:55:05.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Jul2025 00:55:05.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Jul2025 00:55:05.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Jul2025 00:55:06.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10Jul2025 00:55:07.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10Jul2025 00:55:07.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10Jul2025 00:55:07.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[10Jul2025 00:55:07.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
+[10Jul2025 00:55:07.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[10Jul2025 00:55:07.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[10Jul2025 00:55:07.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
+[10Jul2025 00:55:07.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10Jul2025 00:55:07.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Jul2025 00:55:07.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Jul2025 00:55:07.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[10Jul2025 00:55:07.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[10Jul2025 00:55:07.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[10Jul2025 00:55:07.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[10Jul2025 00:55:07.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[10Jul2025 00:55:07.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10Jul2025 00:55:07.847] [Server thread/INFO] [Framework/]: Unloading server configs...
+[10Jul2025 00:55:07.848] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked-common.toml
+[10Jul2025 00:55:07.848] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked-server.toml
+[10Jul2025 00:55:07.851] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
