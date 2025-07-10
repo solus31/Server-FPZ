@@ -299,18 +299,6 @@
     },
     "done": true
   },
-  "betternether:root": {
-    "criteria": {
-      "welcome": "2025-07-10 09:28:41 +0000"
-    },
-    "done": true
-  },
-  "betterend:root": {
-    "criteria": {
-      "welcome": "2025-07-10 09:28:41 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/gilded_sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-07-10 09:28:40 +0000"
@@ -368,12 +356,6 @@
   "ars_nouveau:recipes/misc/ritual_disintegration": {
     "criteria": {
       "has_journal": "2025-07-10 09:28:40 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:biomesoplenty/root": {
-    "criteria": {
-      "redwood_forest": "2025-07-10 09:28:41 +0000"
     },
     "done": true
   },
@@ -1541,12 +1523,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/root": {
-    "criteria": {
-      "auto": "2025-07-10 09:28:41 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_mosaic_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-07-10 09:28:40 +0000"
@@ -1642,12 +1618,6 @@
       "has_journal": "2025-07-10 09:28:40 +0000"
     },
     "done": true
-  },
-  "biomesoplenty:biomesoplenty/all_biomes": {
-    "criteria": {
-      "redwood_forest": "2025-07-10 09:28:41 +0000"
-    },
-    "done": false
   },
   "ars_nouveau:recipes/misc/water_essence_to_obsidian": {
     "criteria": {
@@ -1954,6 +1924,36 @@
       "has_journal": "2025-07-10 09:28:40 +0000"
     },
     "done": true
+  },
+  "betternether:root": {
+    "criteria": {
+      "welcome": "2025-07-10 09:28:41 +0000"
+    },
+    "done": true
+  },
+  "betterend:root": {
+    "criteria": {
+      "welcome": "2025-07-10 09:28:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "redwood_forest": "2025-07-10 09:28:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-07-10 09:28:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "redwood_forest": "2025-07-10 09:28:41 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
