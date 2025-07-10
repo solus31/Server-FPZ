@@ -3999,3 +3999,23 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Jul2025 00:39:37.202] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=164, y=-54, z=238}
 [10Jul2025 00:39:37.202] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=165, y=-54, z=237}
 [10Jul2025 00:39:37.202] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=164, y=-54, z=236}
+[10Jul2025 00:40:44.346] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: solus39 lost connection: Disconnected
+[10Jul2025 00:40:44.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: solus39 left the game
+[10Jul2025 00:41:11.887] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: solus39[/127.50.125.212:51479] logged in with entity id 3005 at (10.383407230688606, 126.0, 12.102864912372247)
+[10Jul2025 00:41:11.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: solus39 joined the game
+[10Jul2025 00:41:11.972] [Server thread/INFO] [fallingtrees | Config/]: Sending solus39 common config 'fallingtrees:fallingtrees_common'
+[10Jul2025 00:41:11.975] [Server thread/INFO] [Jade/]: Syncing config to solus39 (ce65ba84-6225-3264-aae1-f7b8876dc27b)
+[10Jul2025 00:41:12.137] [Netty Epoll Server IO #1/INFO] [fallingtrees | Config/]: Received config 'fallingtrees:fallingtrees_client' from solus39
+[10Jul2025 00:41:14.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made solus39 a server operator
+[10Jul2025 00:41:22.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: solus39 was slain by Zombie
+[10Jul2025 00:41:22.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: solus39 has made the advancement [Your First Grave]
+[10Jul2025 00:41:22.348] [Server thread/INFO] [tombstone/]: The player solus39 has successfully been saved
+[10Jul2025 00:41:24.309] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[10Jul2025 00:41:29.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: solus39 has made the advancement [Alex's Mobs]
+[10Jul2025 00:41:40.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [solus39: Set own game mode to Creative Mode]
+[10Jul2025 00:43:13.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: solus39 has made the advancement [Monster Hunter]
+[10Jul2025 00:45:33.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [solus39: Set the time to 1000]
+[10Jul2025 00:48:35.111] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=96, y=13, z=220}
+[10Jul2025 00:48:35.326] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-123, y=-41, z=210}
+[10Jul2025 00:48:51.946] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: solus39 lost connection: Disconnected
+[10Jul2025 00:48:51.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: solus39 left the game
