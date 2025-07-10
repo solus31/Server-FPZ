@@ -55,22 +55,22 @@
         "value": 1024
       }
     },
+    "mcdw:attack_range": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "irons_spellbooks:nature_spell_power": {
       "enabled": false,
       "min": {
         "default": -100,
         "value": -100
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
-    "obscure_api:resilience": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
       },
       "max": {
         "default": 100,
@@ -97,6 +97,17 @@
       "max": {
         "default": 8,
         "value": 8
+      }
+    },
+    "obscure_api:resilience": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
       }
     },
     "irons_spellbooks:nature_magic_resist": {
@@ -187,6 +198,17 @@
         "value": 100
       }
     },
+    "forge:entity_reach": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "l2damagetracker:damage_absorption": {
       "enabled": false,
       "min": {
@@ -207,17 +229,6 @@
       "max": {
         "default": 100,
         "value": 100
-      }
-    },
-    "forge:entity_reach": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
       }
     },
     "ars_nouveau:ars_nouveau.perk.saturation": {
@@ -319,17 +330,6 @@
         "value": 1000
       }
     },
-    "l2weaponry:shield_defense": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1000,
-        "value": 1000
-      }
-    },
     "epicfight:offhand_impact": {
       "enabled": false,
       "min": {
@@ -339,6 +339,17 @@
       "max": {
         "default": 1024,
         "value": 1024
+      }
+    },
+    "l2weaponry:shield_defense": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
       }
     },
     "minecraft:zombie.spawn_reinforcements": {
@@ -385,7 +396,7 @@
         "value": 1000000
       }
     },
-    "ars_nouveau:ars_nouveau.perk.wixie": {
+    "forge:swim_speed": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -396,7 +407,7 @@
         "value": 1024
       }
     },
-    "forge:swim_speed": {
+    "ars_nouveau:ars_nouveau.perk.wixie": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -416,6 +427,28 @@
       "max": {
         "default": 20,
         "value": 1000000
+      }
+    },
+    "dungeons_and_combat:action_state": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "reach-entity-attributes:attack_range": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "obscure_api:accuracy": {
@@ -506,6 +539,17 @@
         "value": 100
       }
     },
+    "mcdw:reach": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "epicfight:impact": {
       "enabled": false,
       "min": {
@@ -526,6 +570,17 @@
       "max": {
         "default": 64,
         "value": 64
+      }
+    },
+    "reach-entity-attributes:reach": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "irons_spellbooks:blood_magic_resist": {
