@@ -12058,3 +12058,67 @@ com.google.gson.JsonSyntaxException: Unknown item 'iceandfire:fire_dragon_blood'
 [08Aug2025 21:54:31.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mini17 has made the advancement [Alex's Mobs]
 [08Aug2025 21:54:59.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made solus39 a server operator
 [08Aug2025 21:55:09.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [solus39: Set own game mode to Creative Mode]
+[08Aug2025 21:58:15.279] [ForkJoinPool.commonPool-worker-6/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:TommyFPZ'
+java.lang.IllegalStateException: not found
+	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:52) ~[?:?]
+	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[?:?]
+	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[?:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.mdc8fb40$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:582) ~[?:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:581) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.mdc8fb40$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:566) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[08Aug2025 21:58:15.350] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TommyFPZ[/127.110.139.21:35797] logged in with entity id 3765 at (-2.5, 66.0, 9.5)
+[08Aug2025 21:58:15.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TommyFPZ joined the game
+[08Aug2025 21:58:15.420] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to TommyFPZ
+[08Aug2025 21:58:15.432] [Server thread/INFO] [Jade/]: Syncing config to TommyFPZ (5337c5e4-2b09-37c3-9fe5-a76b15de04e4)
+[08Aug2025 21:58:15.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TommyFPZ has made the advancement [Dungeons And Combat]
+[08Aug2025 21:58:15.853] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from TommyFPZ
+[08Aug2025 21:58:44.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mini17 has made the advancement [Not Today, Thank You]
+[08Aug2025 21:58:47.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TommyFPZ was pummeled by Capuchin Monkey
+[08Aug2025 21:58:47.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TommyFPZ has made the advancement [Your First Grave]
+[08Aug2025 21:58:47.963] [Server thread/INFO] [tombstone/]: The player TommyFPZ has successfully been saved
+[08Aug2025 21:58:57.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TommyFPZ has reached the goal [Here They Come]
+[08Aug2025 21:58:57.373] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-11, y=68, z=5}
+[08Aug2025 21:58:58.627] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-12, y=67, z=8}
+[08Aug2025 21:58:58.826] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-13, y=67, z=8}
+[08Aug2025 21:58:59.026] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-12, y=67, z=8}
+[08Aug2025 21:58:59.325] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-12, y=67, z=7}
+[08Aug2025 21:58:59.376] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-12, y=67, z=8}
+[08Aug2025 21:58:59.527] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-12, y=67, z=7}
+[08Aug2025 21:58:59.627] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-12, y=67, z=7}
+[08Aug2025 21:58:59.726] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-12, y=67, z=7}
+[08Aug2025 21:59:36.657] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=87, y=-37, z=212}
+[08Aug2025 21:59:36.806] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=66, y=-42, z=217}
+[08Aug2025 21:59:50.935] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-14, y=63, z=18} BlockPos{x=-14, y=64, z=16}
+[08Aug2025 21:59:59.328] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-11, y=67, z=9} BlockPos{x=-14, y=67, z=4}
+[08Aug2025 22:00:00.479] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-11, y=67, z=9} BlockPos{x=-14, y=67, z=4}
+[08Aug2025 22:00:00.529] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-11, y=67, z=9} BlockPos{x=-14, y=67, z=4}
+[08Aug2025 22:00:00.679] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-11, y=67, z=9} BlockPos{x=-14, y=67, z=4}
+[08Aug2025 22:00:01.178] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-11, y=67, z=9} BlockPos{x=-14, y=67, z=4}
+[08Aug2025 22:00:01.230] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-11, y=67, z=9} BlockPos{x=-14, y=67, z=4}
+[08Aug2025 22:00:01.442] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-11, y=67, z=9} BlockPos{x=-14, y=67, z=4}
+[08Aug2025 22:00:01.679] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-11, y=67, z=9} BlockPos{x=-14, y=67, z=4}
+[08Aug2025 22:00:41.781] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-11, y=67, z=9} BlockPos{x=-13, y=67, z=4}
+[08Aug2025 22:00:44.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mini17 has made the advancement [Stone Age]
+[08Aug2025 22:01:09.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mini17 has made the advancement [Getting an Upgrade]
+[08Aug2025 22:02:42.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [solus39: Set own game mode to Survival Mode]
+[08Aug2025 22:03:29.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TommyFPZ has made the advancement [Monster Hunter]
+[08Aug2025 22:03:44.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: solus39 has made the advancement [Monster Hunter]
+[08Aug2025 22:04:25.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mini17 hit the ground too hard
+[08Aug2025 22:04:25.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mini17 has made the advancement [Your First Grave]
+[08Aug2025 22:04:25.448] [Server thread/INFO] [tombstone/]: The player Mini17 has successfully been saved
+[08Aug2025 22:04:40.759] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=92, y=-42, z=231}
+[08Aug2025 22:04:40.759] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=94, y=-42, z=233}
+[08Aug2025 22:04:56.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: solus39 was slain by Mini17
+[08Aug2025 22:04:56.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: solus39 has made the advancement [Your First Grave]
+[08Aug2025 22:04:56.987] [Server thread/INFO] [tombstone/]: The player solus39 has successfully been saved
