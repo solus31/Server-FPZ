@@ -518,6 +518,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-08-08 22:06:39 +0000",
+      "minecraft:cave_spider": "2025-08-08 22:15:26 +0000",
       "minecraft:zombie": "2025-08-08 22:03:29 +0000"
     },
     "done": false
@@ -2817,6 +2818,12 @@
   "backpacked:recipes/decorations/warped_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-08-08 22:06:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-08-08 22:15:10 +0000"
     },
     "done": true
   },
