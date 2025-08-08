@@ -12122,3 +12122,67 @@ java.lang.IllegalStateException: not found
 [08Aug2025 22:04:56.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: solus39 was slain by Mini17
 [08Aug2025 22:04:56.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: solus39 has made the advancement [Your First Grave]
 [08Aug2025 22:04:56.987] [Server thread/INFO] [tombstone/]: The player solus39 has successfully been saved
+[08Aug2025 22:08:08.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mini17 has made the advancement [Monster Hunter]
+[08Aug2025 22:08:42.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mini17 has made the advancement ['X' Marks the Spot]
+[08Aug2025 22:08:44.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: solus39 has made the advancement ['X' Marks the Spot]
+[08Aug2025 22:09:11.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mini17 has made the advancement [Acquire Hardware]
+[08Aug2025 22:09:26.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TommyFPZ has made the advancement ['X' Marks the Spot]
+[08Aug2025 22:10:07.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TommyFPZ has reached the goal [Eye of Darkness]
+[08Aug2025 22:10:32.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: solus39 has made the advancement [Stone Age]
+[08Aug2025 22:11:42.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TommyFPZ was slain by Spider
+[08Aug2025 22:11:42.578] [Server thread/INFO] [tombstone/]: The player TommyFPZ has successfully been saved
+[08Aug2025 22:11:51.405] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=302, y=66, z=67}
+[08Aug2025 22:11:57.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [solus39: Set own game mode to Creative Mode]
+[08Aug2025 22:12:17.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [solus39: Teleported TommyFPZ to solus39]
+[08Aug2025 22:12:45.408] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=305, y=66, z=69}
+[08Aug2025 22:13:40.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [solus39: Set own game mode to Survival Mode]
+[08Aug2025 22:13:48.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from holy damage
+[08Aug2025 22:13:48.029] [Server thread/INFO] [tombstone/]: The player Mini17 has successfully been saved
+[08Aug2025 22:14:15.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [solus39: Set own game mode to Creative Mode]
+[08Aug2025 22:14:59.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [solus39: Teleported solus39 to TommyFPZ]
+[08Aug2025 22:15:10.382] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-8, y=65, z=2}
+[08Aug2025 22:15:10.441] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-8, y=65, z=2}
+[08Aug2025 22:15:30.388] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=66, z=14}
+[08Aug2025 22:15:30.831] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=66, z=16}
+[08Aug2025 22:15:31.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mini17 has reached the goal [Here They Come]
+[08Aug2025 22:15:36.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [solus39: Teleported Mini17 to TommyFPZ]
+[08Aug2025 22:15:49.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TommyFPZ was slain by Cave Spider
+[08Aug2025 22:15:49.027] [Server thread/INFO] [tombstone/]: The player TommyFPZ has successfully been saved
+[08Aug2025 22:15:52.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mini17 tried to swim in lava to escape Wither Skeleton
+[08Aug2025 22:15:52.472] [Server thread/INFO] [tombstone/]: The player Mini17 has successfully been saved
+[08Aug2025 22:16:09.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [solus39: Teleported TommyFPZ to solus39]
+[08Aug2025 22:16:12.942] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=65, z=17} BlockPos{x=-10, y=65, z=16}
+[08Aug2025 22:16:13.139] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=65, z=17} BlockPos{x=-9, y=65, z=16}
+[08Aug2025 22:16:13.740] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=65, z=17} BlockPos{x=-12, y=65, z=14}
+[08Aug2025 22:16:14.026] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=65, z=17} BlockPos{x=-12, y=65, z=15}
+[08Aug2025 22:16:14.192] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=65, z=17} BlockPos{x=-12, y=65, z=14}
+[08Aug2025 22:16:14.340] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=65, z=17} BlockPos{x=-12, y=66, z=13}
+[08Aug2025 22:16:14.379] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=65, z=17} BlockPos{x=-11, y=66, z=13}
+[08Aug2025 22:16:14.635] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=65, z=17} BlockPos{x=-11, y=67, z=13}
+[08Aug2025 22:16:14.832] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=65, z=17} BlockPos{x=-10, y=67, z=12}
+[08Aug2025 22:16:15.039] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=65, z=17} BlockPos{x=-12, y=66, z=12}
+[08Aug2025 22:16:15.236] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=65, z=17} BlockPos{x=-12, y=66, z=13}
+[08Aug2025 22:16:15.383] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=65, z=17} BlockPos{x=-13, y=66, z=12}
+[08Aug2025 22:16:15.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=65, z=17} BlockPos{x=-13, y=66, z=12}
+[08Aug2025 22:16:15.640] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=65, z=17} BlockPos{x=-12, y=66, z=11}
+[08Aug2025 22:16:15.689] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=65, z=17} BlockPos{x=-13, y=66, z=11}
+[08Aug2025 22:16:15.886] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=65, z=17} BlockPos{x=-13, y=66, z=12}
+[08Aug2025 22:16:15.977] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=65, z=17} BlockPos{x=-12, y=66, z=12}
+[08Aug2025 22:16:16.033] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=65, z=17} BlockPos{x=-12, y=66, z=11}
+[08Aug2025 22:16:16.092] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=65, z=17} BlockPos{x=-12, y=66, z=11}
+[08Aug2025 22:16:16.339] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=65, z=17} BlockPos{x=-12, y=66, z=10}
+[08Aug2025 22:16:16.742] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=65, z=17} BlockPos{x=-15, y=66, z=10}
+[08Aug2025 22:16:16.939] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=65, z=17} BlockPos{x=-16, y=67, z=8}
+[08Aug2025 22:16:17.579] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=65, z=17} BlockPos{x=-16, y=67, z=8}
+[08Aug2025 22:16:17.777] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=65, z=17} BlockPos{x=-16, y=67, z=7}
+[08Aug2025 22:16:17.786] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=65, z=17} BlockPos{x=-16, y=67, z=7}
+[08Aug2025 22:16:17.835] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=65, z=17} BlockPos{x=-15, y=67, z=7}
+[08Aug2025 22:16:18.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [solus39: Teleported TommyFPZ to solus39]
+[08Aug2025 22:16:18.288] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=65, z=17} BlockPos{x=-14, y=67, z=6}
+[08Aug2025 22:16:18.889] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=65, z=17} BlockPos{x=-16, y=67, z=6}
+[08Aug2025 22:16:18.938] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=65, z=17} BlockPos{x=-15, y=67, z=7}
+[08Aug2025 22:16:19.342] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=65, z=17} BlockPos{x=-14, y=67, z=7}
+[08Aug2025 22:16:19.942] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=65, z=17} BlockPos{x=-16, y=67, z=6}
+[08Aug2025 22:16:19.981] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=65, z=17} BlockPos{x=-16, y=67, z=6}
+[08Aug2025 22:16:20.382] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=65, z=17} BlockPos{x=-15, y=67, z=3}
+[08Aug2025 22:16:20.385] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=65, z=17} BlockPos{x=-15, y=67, z=3}
