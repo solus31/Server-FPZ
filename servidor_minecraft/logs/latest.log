@@ -12236,3 +12236,57 @@ java.lang.IllegalStateException: not found
 [08Aug2025 22:43:22.308] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=703, y=66, z=31}
 [08Aug2025 22:43:22.310] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=703, y=66, z=32}
 [08Aug2025 22:45:45.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: solus39 has made the advancement [Diamonds!]
+[08Aug2025 22:47:10.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mini17 has made the advancement [Diamonds!]
+[08Aug2025 22:47:54.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mini17 has made the advancement [Disme A Dozen]
+[08Aug2025 22:49:49.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [solus39: Set own game mode to Creative Mode]
+[08Aug2025 22:50:40.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [solus39: Set own game mode to Survival Mode]
+[08Aug2025 22:52:03.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mini17 was slain by Ferrous Wroughtnaut
+[08Aug2025 22:52:03.429] [Server thread/INFO] [tombstone/]: The player Mini17 has successfully been saved
+[08Aug2025 22:52:29.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [solus39: Teleported Mini17 to solus39]
+[08Aug2025 22:56:20.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: solus39 was slain by Ferrous Wroughtnaut
+[08Aug2025 22:56:20.228] [Server thread/INFO] [tombstone/]: The player solus39 has successfully been saved
+[08Aug2025 22:56:21.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mini17 was slain by Ferrous Wroughtnaut
+[08Aug2025 22:56:21.344] [Server thread/INFO] [tombstone/]: The player Mini17 has successfully been saved
+[08Aug2025 22:56:39.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [solus39: Set own game mode to Creative Mode]
+[08Aug2025 22:57:19.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [solus39: Teleported Mini17 to solus39]
+[08Aug2025 22:57:22.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: solus39 has reached the goal [Here They Come]
+[08Aug2025 22:57:26.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [solus39: Set own game mode to Survival Mode]
+[08Aug2025 22:58:27.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: solus39 was slain by Ferrous Wroughtnaut
+[08Aug2025 22:58:27.880] [Server thread/INFO] [tombstone/]: The player solus39 has successfully been saved
+[08Aug2025 22:58:33.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [solus39: Teleported solus39 to Mini17]
+[08Aug2025 23:00:18.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mini17 was slain by Ferrous Wroughtnaut
+[08Aug2025 23:00:18.479] [Server thread/INFO] [tombstone/]: The player Mini17 has successfully been saved
+[08Aug2025 23:00:22.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: solus39 has made the advancement [Ashes 'n Bones]
+[08Aug2025 23:00:30.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [solus39: Teleported Mini17 to solus39]
+[08Aug2025 23:01:30.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mini17 was slain by Ferrous Wroughtnaut
+[08Aug2025 23:01:30.135] [Server thread/INFO] [tombstone/]: The player Mini17 has successfully been saved
+[08Aug2025 23:01:37.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [solus39: Teleported Mini17 to solus39]
+[08Aug2025 23:01:50.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: solus39 was slain by Ferrous Wroughtnaut
+[08Aug2025 23:01:50.590] [Server thread/INFO] [tombstone/]: The player solus39 has successfully been saved
+[08Aug2025 23:01:54.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [solus39: Teleported solus39 to Mini17]
+[08Aug2025 23:02:19.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: solus39 has completed the challenge [Just a Flesh Wound]
+[08Aug2025 23:03:07.270] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: solus39 lost connection: Disconnected
+[08Aug2025 23:03:07.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: solus39 left the game
+[08Aug2025 23:03:10.971] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mini17 lost connection: Disconnected
+[08Aug2025 23:03:10.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mini17 left the game
+[08Aug2025 23:03:23.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[08Aug2025 23:03:23.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Aug2025 23:03:23.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Aug2025 23:03:23.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Aug2025 23:03:23.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08Aug2025 23:03:25.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08Aug2025 23:03:25.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[08Aug2025 23:03:25.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[08Aug2025 23:03:25.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[08Aug2025 23:03:25.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08Aug2025 23:03:25.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Aug2025 23:03:25.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Aug2025 23:03:25.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[08Aug2025 23:03:25.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[08Aug2025 23:03:25.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[08Aug2025 23:03:25.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Aug2025 23:03:25.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08Aug2025 23:03:25.444] [Server thread/INFO] [Framework/]: Unloading server configs...
+[08Aug2025 23:03:25.445] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked-common.toml
+[08Aug2025 23:03:25.446] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked-server.toml
+[08Aug2025 23:03:25.446] [Server thread/INFO] [Framework/]: Finished unloading server configs

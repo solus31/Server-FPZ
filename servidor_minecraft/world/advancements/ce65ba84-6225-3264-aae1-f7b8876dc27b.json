@@ -1785,7 +1785,9 @@
     "criteria": {
       "minecraft:bamboo_jungle": "2025-08-08 22:06:12 +0000",
       "minecraft:sparse_jungle": "2025-08-08 21:49:53 +0000",
-      "minecraft:dripstone_caves": "2025-08-08 22:07:25 +0000"
+      "minecraft:river": "2025-08-08 22:57:03 +0000",
+      "minecraft:dripstone_caves": "2025-08-08 22:07:25 +0000",
+      "minecraft:plains": "2025-08-08 22:44:13 +0000"
     },
     "done": false
   },
@@ -1829,6 +1831,7 @@
     "criteria": {
       "minecraft:pillager": "2025-08-08 22:38:09 +0000",
       "minecraft:skeleton": "2025-08-08 22:08:40 +0000",
+      "minecraft:creeper": "2025-08-08 22:57:38 +0000",
       "minecraft:wither_skeleton": "2025-08-08 22:21:38 +0000",
       "minecraft:zombie": "2025-08-08 22:03:44 +0000"
     },
@@ -2160,8 +2163,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-08-08 22:48:43 +0000",
+      "sweet_berries": "2025-08-08 22:46:02 +0000",
       "cooked_beef": "2025-08-08 22:08:51 +0000",
       "potato": "2025-08-08 22:13:43 +0000",
+      "glow_berries": "2025-08-08 22:46:42 +0000",
       "carrot": "2025-08-08 22:40:00 +0000"
     },
     "done": false
@@ -2604,6 +2610,78 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-08 23:02:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-08 23:02:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-08 23:02:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-08 23:02:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-08 23:02:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-08 23:02:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-08 23:02:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-08 23:02:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-08 23:02:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-08 23:02:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-08 23:02:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-08 23:02:17 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-08-08 22:34:06 +0000"
@@ -2616,9 +2694,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-08-08 22:45:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-08-08 22:34:06 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-08-08 23:02:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-08-08 22:54:27 +0000"
     },
     "done": true
   },
@@ -2628,9 +2724,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-08-08 22:46:15 +0000"
+    },
+    "done": true
+  },
   "chiselsandbits:recipes/tools/magnifying_glass": {
     "criteria": {
       "has_s": "2025-08-08 22:34:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-08-08 22:45:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-08-08 22:45:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-08-08 22:45:45 +0000"
     },
     "done": true
   },
@@ -2652,9 +2772,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-08-08 22:54:27 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/stone_pickaxe_repairing": {
     "criteria": {
       "has_stone_pickaxe": "2025-08-08 22:36:10 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/cod": {
+    "criteria": {
+      "has_cod": "2025-08-08 22:46:15 +0000"
     },
     "done": true
   },
@@ -2670,9 +2802,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
+    "criteria": {
+      "has_mutton": "2025-08-08 22:45:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-08-08 22:41:49 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_scythe_enchanted": {
+    "criteria": {
+      "has_diamond": "2025-08-08 22:45:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-08-08 22:45:45 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_javelin_enchanted": {
+    "criteria": {
+      "has_diamond": "2025-08-08 22:45:45 +0000"
     },
     "done": true
   },
@@ -2697,6 +2853,30 @@
   "backpacked:recipes/decorations/spruce_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-08-08 22:34:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
+    "criteria": {
+      "has_cod": "2025-08-08 22:46:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-08-08 22:57:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-08-08 22:45:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-08-08 22:45:45 +0000"
     },
     "done": true
   },
@@ -2742,15 +2922,39 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-08-08 22:45:45 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_bedside_cabinet": {
     "criteria": {
       "has_log": "2025-08-08 22:34:06 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-08-08 22:46:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-08-08 22:45:52 +0000"
+    },
+    "done": true
+  },
   "chiselsandbits:recipes/tools/bit_storage": {
     "criteria": {
       "has_l": "2025-08-08 22:34:06 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-08-08 22:59:59 +0000"
     },
     "done": true
   },
@@ -2796,9 +3000,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-08-08 22:46:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-08-08 22:45:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_planks": "2025-08-08 22:36:00 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/beef": {
+    "criteria": {
+      "has_beef": "2025-08-08 22:46:12 +0000"
     },
     "done": true
   },
@@ -2814,9 +3036,27 @@
     },
     "done": true
   },
+  "l2complements:recipes/burnt/burnt/porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-08-08 22:45:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-08-08 22:45:52 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_crate": {
     "criteria": {
       "has_log": "2025-08-08 22:34:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_gloves": {
+    "criteria": {
+      "has_diamond": "2025-08-08 22:45:45 +0000"
     },
     "done": true
   },
@@ -2838,9 +3078,33 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/tools/generated/craft/diamond_machete_enchanted": {
+    "criteria": {
+      "has_diamond": "2025-08-08 22:45:45 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/decorations/crimson_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-08-08 22:34:06 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond": "2025-08-08 22:45:45 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_dagger_enchanted": {
+    "criteria": {
+      "has_diamond": "2025-08-08 22:45:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
+    "criteria": {
+      "has_salmon": "2025-08-08 22:46:35 +0000"
     },
     "done": true
   },
@@ -2850,15 +3114,51 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/tools/generated/craft/diamond_claw_enchanted": {
+    "criteria": {
+      "has_diamond": "2025-08-08 22:45:45 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_jungle_chair": {
     "criteria": {
       "has_planks": "2025-08-08 22:34:06 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-08-08 22:45:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-08-08 22:36:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-08-08 22:45:45 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_hammer_enchanted": {
+    "criteria": {
+      "has_diamond": "2025-08-08 22:45:45 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_hedge": {
+    "criteria": {
+      "has_leaves": "2025-08-08 22:43:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-08-08 22:54:27 +0000"
     },
     "done": true
   },
@@ -2874,6 +3174,18 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-08-08 22:45:45 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-08-08 22:45:52 +0000"
+    },
+    "done": true
+  },
   "aquamirae:adventure/root": {
     "criteria": {
       "crafting_table": "2025-08-08 22:36:03 +0000"
@@ -2886,15 +3198,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-08-08 22:46:12 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/mutton": {
+    "criteria": {
+      "has_mutton": "2025-08-08 22:45:11 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_cabinet": {
     "criteria": {
       "has_log": "2025-08-08 22:34:06 +0000"
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/coal": {
+    "criteria": {
+      "has_coal": "2025-08-08 22:45:53 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_jungle_kitchen_drawer": {
     "criteria": {
       "has_log": "2025-08-08 22:34:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-08-08 22:45:45 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_battle_axe_enchanted": {
+    "criteria": {
+      "has_diamond": "2025-08-08 22:45:45 +0000"
     },
     "done": true
   },
@@ -2922,9 +3264,27 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2025-08-08 22:45:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-08-08 22:43:07 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_round_shield_enchanted": {
+    "criteria": {
+      "has_diamond": "2025-08-08 22:45:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_jukebox": {
+    "criteria": {
+      "has_diamond": "2025-08-08 22:45:45 +0000"
     },
     "done": true
   },
@@ -2952,9 +3312,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-08-08 22:46:35 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/decorations/birch_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-08-08 22:34:06 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_throwing_axe_enchanted": {
+    "criteria": {
+      "has_diamond": "2025-08-08 22:45:45 +0000"
     },
     "done": true
   },
@@ -2970,15 +3342,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-08-08 22:48:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-08-08 22:46:18 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_jungle_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-08-08 22:34:06 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-08-08 22:45:52 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2025-08-08 22:36:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-08-08 22:46:18 +0000"
     },
     "done": true
   },
@@ -2997,6 +3393,30 @@
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2025-08-08 22:36:00 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/cooked_mutton": {
+    "criteria": {
+      "has_cooked_mutton": "2025-08-08 22:48:40 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/emerald": {
+    "criteria": {
+      "has_emerald": "2025-08-08 22:46:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-08-08 22:45:53 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-08-08 22:46:15 +0000"
     },
     "done": true
   },
@@ -3024,6 +3444,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-08-08 22:45:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-08-08 22:36:10 +0000"
@@ -3033,6 +3459,12 @@
   "cfm:recipes/decorations/stripped_jungle_desk": {
     "criteria": {
       "has_planks": "2025-08-08 22:34:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-08-08 22:46:35 +0000"
     },
     "done": true
   },
@@ -3048,6 +3480,12 @@
     },
     "done": true
   },
+  "l2complements:recipes/burnt/burnt/salmon": {
+    "criteria": {
+      "has_salmon": "2025-08-08 22:46:35 +0000"
+    },
+    "done": true
+  },
   "chiselsandbits:recipes/tools/quill": {
     "criteria": {
       "has_tag_a": "2025-08-08 22:43:07 +0000"
@@ -3060,6 +3498,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-08-08 22:45:11 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-08-08 22:38:09 +0000"
@@ -3069,6 +3513,12 @@
   "backpacked:recipes/decorations/jungle_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-08-08 22:34:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_grill_cooking": {
+    "criteria": {
+      "has_beef": "2025-08-08 22:46:12 +0000"
     },
     "done": true
   },
@@ -3090,9 +3540,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-08-08 22:45:11 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/decorations/warped_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-08-08 22:34:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-08-08 22:46:15 +0000"
     },
     "done": true
   },
@@ -3108,15 +3570,45 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/tools/generated/craft/diamond_nunchaku_enchanted": {
+    "criteria": {
+      "has_diamond": "2025-08-08 22:45:45 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_jungle_crate": {
     "criteria": {
       "has_planks": "2025-08-08 22:34:06 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-08-08 22:46:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-08 22:54:27 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_desk": {
     "criteria": {
       "has_log": "2025-08-08 22:34:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-08-08 23:00:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-08-08 22:45:45 +0000"
     },
     "done": true
   },
@@ -3129,6 +3621,24 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-08-08 22:36:03 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_spear_enchanted": {
+    "criteria": {
+      "has_diamond": "2025-08-08 22:45:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-08-08 22:46:12 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_plate_shield_enchanted": {
+    "criteria": {
+      "has_diamond": "2025-08-08 22:45:45 +0000"
     },
     "done": true
   },
