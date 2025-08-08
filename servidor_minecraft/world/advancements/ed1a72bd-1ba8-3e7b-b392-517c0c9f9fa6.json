@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-08-08 22:43:09 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/rotating_turret_to_basic_spell_turret": {
     "criteria": {
       "has_journal": "2025-08-08 21:49:33 +0000"
@@ -203,6 +209,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_unstable_intangibility": {
+    "criteria": {
+      "has_magic_scroll": "2025-08-08 22:40:05 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/light_blue_grill": {
     "criteria": {
       "has_iron": "2025-08-08 22:09:11 +0000"
@@ -317,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-08-08 22:40:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-08-08 22:11:09 +0000"
@@ -398,6 +416,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_basketweave_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-08-08 21:49:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/diving_board": {
+    "criteria": {
+      "has_wheat": "2025-08-08 22:38:45 +0000"
     },
     "done": true
   },
@@ -563,6 +587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-08-08 22:38:34 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sunrise_2": {
     "criteria": {
       "has_journal": "2025-08-08 21:49:33 +0000"
@@ -587,6 +617,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-08 22:41:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-08-08 22:00:44 +0000"
@@ -607,6 +643,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-08-08 22:38:09 +0000",
       "minecraft:skeleton": "2025-08-08 22:08:19 +0000",
       "minecraft:zombie": "2025-08-08 22:08:08 +0000"
     },
@@ -702,6 +739,12 @@
     },
     "done": true
   },
+  "l2complements:recipes/burnt/burnt/chicken": {
+    "criteria": {
+      "has_chicken": "2025-08-08 22:43:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-08-08 22:09:10 +0000"
@@ -786,6 +829,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-08-08 22:38:45 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_alternating_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-08-08 21:49:33 +0000"
@@ -864,6 +913,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-08-08 22:38:45 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/spell_prism": {
     "criteria": {
       "has_journal": "2025-08-08 21:49:33 +0000"
@@ -885,6 +940,12 @@
   "travelersbackpack:recipes/misc/chicken": {
     "criteria": {
       "has_feather": "2025-08-08 21:57:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-08-08 22:38:09 +0000"
     },
     "done": true
   },
@@ -1122,6 +1183,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_sword_repairing": {
+    "criteria": {
+      "has_iron_sword": "2025-08-08 22:34:53 +0000"
+    },
+    "done": true
+  },
   "chiselsandbits:recipes/tools/bit_storage": {
     "criteria": {
       "has_l": "2025-08-08 21:51:52 +0000"
@@ -1245,6 +1312,12 @@
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-08-08 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-08-08 22:43:09 +0000"
     },
     "done": true
   },
@@ -1956,6 +2029,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-08-08 22:38:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-08-08 22:09:11 +0000"
@@ -1977,6 +2056,12 @@
   "ars_nouveau:recipes/misc/gilded_sourcestone_small_bricks_stairs": {
     "criteria": {
       "has_journal": "2025-08-08 21:49:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2025-08-08 22:38:45 +0000"
     },
     "done": true
   },
@@ -2142,6 +2227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
+    "criteria": {
+      "has_chicken": "2025-08-08 22:43:09 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_mosaic_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-08-08 21:49:33 +0000"
@@ -2211,6 +2302,12 @@
   "ars_nouveau:recipes/misc/sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-08-08 21:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-08-08 22:43:09 +0000"
     },
     "done": true
   },
@@ -2532,6 +2629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-08-08 22:42:19 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_large_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-08-08 21:49:33 +0000"
@@ -2670,6 +2773,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-08-08 22:34:53 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/deny_scroll": {
     "criteria": {
       "has_journal": "2025-08-08 21:49:33 +0000"
@@ -2691,6 +2800,12 @@
   "ars_nouveau:recipes/misc/sourcestone_mosaic_stairs": {
     "criteria": {
       "has_journal": "2025-08-08 21:49:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-08-08 22:42:19 +0000"
     },
     "done": true
   },
@@ -2847,6 +2962,12 @@
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_mosaic_stairs": {
     "criteria": {
       "has_journal": "2025-08-08 21:49:33 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/emerald": {
+    "criteria": {
+      "has_emerald": "2025-08-08 22:42:19 +0000"
     },
     "done": true
   },
@@ -3210,6 +3331,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-08-08 22:38:09 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/canopy_boat": {
     "criteria": {
       "in_water": "2025-08-08 22:05:58 +0000"
@@ -3378,6 +3505,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-08 22:40:24 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-08-08 21:49:33 +0000"
@@ -3399,6 +3532,12 @@
   "biomesoplenty:recipes/transportation/empyreal_boat": {
     "criteria": {
       "in_water": "2025-08-08 22:05:58 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-08-08 22:34:53 +0000"
     },
     "done": true
   },
@@ -3712,7 +3851,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "beef": "2025-08-08 22:10:28 +0000"
+      "beef": "2025-08-08 22:10:28 +0000",
+      "apple": "2025-08-08 22:33:33 +0000"
     },
     "done": false
   },
@@ -3740,6 +3880,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-08-08 22:39:47 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_conjure_island_desert": {
     "criteria": {
       "has_journal": "2025-08-08 21:49:33 +0000"
@@ -3755,6 +3901,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-08-08 22:00:44 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/crossbow_repairing": {
+    "criteria": {
+      "has_crossbow": "2025-08-08 22:40:28 +0000"
     },
     "done": true
   },
@@ -3839,6 +3991,12 @@
   "ars_nouveau:recipes/misc/agronomic_sourcelink": {
     "criteria": {
       "has_journal": "2025-08-08 21:49:33 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/cooked_porkchop": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-08-08 22:42:19 +0000"
     },
     "done": true
   },

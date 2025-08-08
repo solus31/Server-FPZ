@@ -33711,3 +33711,21 @@ java.lang.IllegalStateException: not found
 [08Aug2025 22:33:16.566] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [08Aug2025 22:34:06.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: solus39 has made the advancement [Gone Bananas!]
 [08Aug2025 22:36:10.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: solus39 has made the advancement [Getting an Upgrade]
+[08Aug2025 22:38:09.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: solus39 has made the advancement [Knowledge of Death]
+[08Aug2025 22:38:09.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: solus39 has made the advancement [Ambush]
+[08Aug2025 22:38:09.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: solus39 has made the advancement [Voluntary Exile]
+[08Aug2025 22:38:09.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mini17 has made the advancement [Knowledge of Death]
+[08Aug2025 22:38:09.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mini17 has made the advancement [Ambush]
+[08Aug2025 22:38:16.564] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 22:38:16.583] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 22:39:47.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mini17 has made the advancement [Magic Writing]
+[08Aug2025 22:40:05.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mini17 has reached the goal [To be or not to be]
+[08Aug2025 22:41:27.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [solus39: Set own game mode to Creative Mode]
+[08Aug2025 22:41:37.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [solus39: Set own game mode to Survival Mode]
+[08Aug2025 22:41:49.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: solus39 has made the advancement [Sweet Dreams]
+[08Aug2025 22:41:50.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mini17 has made the advancement [Sweet Dreams]
+[08Aug2025 22:43:16.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 22:43:16.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 22:43:22.308] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=703, y=66, z=31}
+[08Aug2025 22:43:22.310] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=703, y=66, z=32}
+[08Aug2025 22:45:45.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: solus39 has made the advancement [Diamonds!]
